@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=xZ1ba-RLrjo" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
   <br />
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
@@ -11,7 +9,12 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
   <h3 align="center">Travel Agency Platform</h3>
+
+  <div align="center">
+     Build this project step by step with our detailed tutorial 
+    </div>
 </div>
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
